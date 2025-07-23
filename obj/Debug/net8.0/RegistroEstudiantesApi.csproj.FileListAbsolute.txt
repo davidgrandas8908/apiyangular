@@ -170,8 +170,8 @@ C:\Users\User\Documents\Prueba Cursor\RegistroEstudiantesApi\obj\Debug\net8.0\Re
 C:\Users\User\Documents\Prueba Cursor\RegistroEstudiantesApi\obj\Debug\net8.0\RegistroEstudiantesApi.genruntimeconfig.cache
 C:\Users\User\Documents\Prueba Cursor\RegistroEstudiantesApi\obj\Debug\net8.0\ref\RegistroEstudiantesApi.dll
 C:\Users\User\source\repos\davidgrandas8908\apiyangular\bin\Debug\net8.0\appsettings.Development.json
-C:\Users\User\source\repos\davidgrandas8908\apiyangular\bin\Debug\net8.0\RegistroEstudiantesApi.staticwebassets.endpoints.json
 C:\Users\User\source\repos\davidgrandas8908\apiyangular\bin\Debug\net8.0\appsettings.json
+C:\Users\User\source\repos\davidgrandas8908\apiyangular\bin\Debug\net8.0\RegistroEstudiantesApi.staticwebassets.endpoints.json
 C:\Users\User\source\repos\davidgrandas8908\apiyangular\bin\Debug\net8.0\RegistroEstudiantesApi.exe
 C:\Users\User\source\repos\davidgrandas8908\apiyangular\bin\Debug\net8.0\RegistroEstudiantesApi.deps.json
 C:\Users\User\source\repos\davidgrandas8908\apiyangular\bin\Debug\net8.0\RegistroEstudiantesApi.runtimeconfig.json

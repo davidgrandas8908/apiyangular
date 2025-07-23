@@ -1,5 +1,41 @@
-﻿################################################################################
-# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
-################################################################################
+﻿# Visual Studio
+.vs/
 
+# Build results
+[Dd]ebug/
+[Rr]elease/
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# OS generated files
+[Tt]humbs.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+
+# Logs
+*.log
+
+# Others
+*.swp
+*.tmp
+*.bak
+*.ncb
+*.cache
+*.dbmdl
+*.db
+
+# Local configuration
+appsettings.Development.json
+
+# Rider
+.idea/
+*.sln.iml
+
+# Existing rule
 /.vs/RegistroEstudiantesApi
